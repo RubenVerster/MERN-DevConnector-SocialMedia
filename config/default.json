@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://verster:mernfronttoback@mern-front-to-back.bcvdz.mongodb.net/MERN-front-to-back?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretwebtoken",
+  "githubClientId": "d7492b838c0cacd2a18b",
+  "githubSecret": "6c7618a88e035308497a94b9224ddbffa3f22aef"
+}
