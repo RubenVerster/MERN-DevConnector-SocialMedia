@@ -22,6 +22,12 @@ export const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
           <span className="hide-sm">Dashboard</span>
         </Link>
       </li>
+      <li>
+        <Link to="/posts">
+          <i className="fas fa-user" />{' '}
+          <span className="hide-sm">Posts</span>
+        </Link>
+      </li>
     </ul>
   );
 
